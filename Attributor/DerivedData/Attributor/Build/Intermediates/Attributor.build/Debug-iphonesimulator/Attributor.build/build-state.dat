@@ -1,0 +1,698 @@
+TAttributor
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch Attributor/Attributor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor normal x86_64
+cCopyStringsFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj/InfoPlist.strings Attributor/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Images.xcassets
+cProcessInfoPlistFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Attributor-Info.plist
+cGenerateDSYMFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor
+cTouch /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000534BBFBB00000000000003B4
+t1397473211
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534BBFC0000000000000019E
+t1397473216
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000534BBFC1000000000058E0E0
+t1397473217
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000534BBFC100000000005B82F0
+t1397473217
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534BBFC10000000000446820
+t1397473217
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000534BBFC100000000003599D0
+t1397473217
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000534BBFC200000000002FC3B0
+t1397473218
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000534BBFC2000000000004B000
+t1397473218
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000534BBFC2000000000088D8C0
+t1397473218
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000534BBFC30000000000037680
+t1397473219
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000534BBFC3000000000048F720
+t1397473219
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000534BBFC3000000000013FD70
+t1397473219
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000534BBFC50000000001F1DE10
+t1397473221
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000534BBFCA00000000002BC360
+t1397473226
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000534BBFCD0000000000002338
+t1397473229
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000534BBFCE000000000008D370
+t1397473230
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000534BBFCD0000000000392E20
+t1397473229
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537D1C2400000000000141F0
+t1400708132
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000534BBFCE0000000000014A80
+t1397473230
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000534BBFCE0000000000033BA0
+t1397473230
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000534BBFCE000000000001CFB0
+t1397473230
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000534BBFCE000000000001B2B0
+t1397473230
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000534BBFCE00000000000C9570
+t1397473230
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000534BBFCE0000000000063280
+t1397473230
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000534BBFCE0000000000008880
+t1397473230
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000534BBFCE0000000000015080
+t1397473230
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000534BBFCE00000000000230F0
+t1397473230
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000534BBFCE000000000000E380
+t1397473230
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000534BBFCE0000000000089380
+t1397473230
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000534BBFCE0000000000017320
+t1397473230
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000534BBFCE0000000000039CD0
+t1397473230
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000534BBFCE000000000000B0B0
+t1397473230
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000534BBFCE0000000000167E80
+t1397473230
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000534BBFCE00000000000106A0
+t1397473230
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000534BBFCE000000000001CE40
+t1397473230
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000534BBFCE00000000000740C0
+t1397473230
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000534BBFCE000000000006CA60
+t1397473230
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000534BBFCE000000000001BAD0
+t1397473230
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000534BBFCE0000000000084A20
+t1397473230
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534BBFDA0000000000000ADC
+t1397473242
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534BBFDA000000000000514C
+t1397473242
+s20812
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Attributor-Info.plist
+c00000000539C69AE00000000000004CA
+t1402759598
+s1226
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Attributor-Prefix.pch
+c00000000539C69AE0000000000000158
+t1402759598
+s344
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.h
+c00000000539C69AE0000000000000133
+t1402759598
+s307
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.m
+c00000000539C69AE00000000000007FF
+t1402759598
+s2047
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorViewController.h
+c00000000539C69AE00000000000000F5
+t1402759598
+s245
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorViewController.m
+c00000000539C6FDA00000000000004FB
+t1402761178
+s1275
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Base.lproj/Main.storyboard
+c00000000539C6F5A0000000000002A68
+t1402761050
+s10856
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Images.xcassets
+c00000000539C69AE0000000000000088
+t1402759598
+s136
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/en.lproj/InfoPlist.strings
+c00000000539C69AE000000000000002D
+t1402759598
+s45
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/main.m
+c00000000539C69AE000000000000016F
+t1402759598
+s367
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/Attributor.LinkFileList
+c00000000539C6DEA000000000000024A
+t1402760682
+s586
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o
+t1402760683
+s69068
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o
+t1402761178
+s55192
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o
+t1402760683
+s3832
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_dependencies.txt
+t1402760684
+s503
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_generated_info.plist
+t1402760684
+s525
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch
+t1402760683
+s117560
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app
+t1402761178
+s306
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM
+t1402761160
+s102
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor
+t1402761178
+s24424
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Base.lproj/Main.storyboardc
+t1402761052
+s170
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist
+t1402760684
+s1023
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/PkgInfo
+t1402760684
+s8
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj/InfoPlist.strings
+t1402760683
+s42
+
+N/usr/lib/libSystem.B.dylib
+c00000000537D1C18000000000000E6D0
+t1400708120
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526FA7310000000000012A00
+t1383049009
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526FA71B000000000002E320
+t1383048987
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526FA7250000000000021860
+t1383048997
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000526FA730000000000001B620
+t1383049008
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526FA73000000000000BD920
+t1383049008
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000537D1C2400000000000141F0
+t1400708132
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526FA731000000000000A120
+t1383049009
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000530F14C4000000000001D550
+t1393497284
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526FA7300000000000014EE0
+t1383049008
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526FA7320000000000010380
+t1383049010
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526FA732000000000000C4C0
+t1383049010
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526FA73100000000000357A0
+t1383049009
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526FA731000000000000C070
+t1383049009
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530F14AD0000000000168D00
+t1393497261
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537D1C220000000000010630
+t1400708130
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530F14C4000000000001DF10
+t1393497284
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526FA7250000000000075B00
+t1383048997
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000537D1C18000000000007CD60
+t1400708120
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526FA72500000000000766C0
+t1383048997
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530F14C40000000000044DC0
+t1393497284
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526FA7250000000000021FA0
+t1383048997
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000530F14C4000000000002D920
+t1393497284
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526FA731000000000001E570
+t1383049009
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000537D1C1D000000000000CC70
+t1400708125
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c00000000537D1C1F0000000000009A80
+t1400708127
+s39552
+
+N/usr/lib/system/libunc.dylib
+c00000000526FA72D000000000000C3F0
+t1383049005
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526FA73100000000000199F0
+t1383049009
+s104944
+
+CBuild AST from /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorAppDelegate.m
+r0
+
+CBuild AST from /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorViewController.m
+r0
+
+CBuild AST from /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies02b8295aa74cb941^f4172a5aa74cb941^---0#1#1#--18"Check dependencies36"F8A04249-EE7F-4323-8F97-5B83251CD63A-
+
+CCompileAssetCatalog /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Images.xcassets
+s424453483.656671
+e424453484.539429
+r1
+xCompileAssetCatalog
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Images.xcassets
+o2014-06-14 17:44:44.408 IBCocoaTouchImageCatalogTool[28540:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/LaunchImage-700-568h@2x.png
+o/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Assets.car
+o/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CompileAssetCatalog DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app Attributor/Images.xcassets121"CompileAssetCatalog DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app Attributor/Images.xcassets9128a86ba54cb941^6a188a6ca54cb941^-763"2014-06-14 17:44:44.408 IBCocoaTouchImageCatalogTool[28540:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/LaunchImage-700-568h@2x.png/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Assets.car/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/Images.xcassets/0000000000000000^1340"CompileAssetCatalog DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app Attributor/Images.xcassets    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Images.xcassets36"9217AB3B-7360-472A-A732-10824CAC4426-
+b7CD7FBC8-BBBA-484E-997C-A458BF428656
+
+CCompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424453483.491339
+e424453483.570693
+r1
+xCompileC
+xDerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.m
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.m258"CompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o Attributor/AttributorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler55db7d6ba54cb941^721a926ba54cb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/AttributorAppDelegate.m0000000000000000^4366"CompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o Attributor/AttributorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources/x86_64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorAppDelegate.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o36"41C62B50-FD38-48F1-8B1A-E833AD71B084-
+b7CD7FBC8-BBBA-484E-997C-A458BF428656
+
+CCompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424453978.164034
+e424453978.238418
+r1
+xCompileC
+xDerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorViewController.m
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorViewController.m264"CompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o Attributor/AttributorViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1a172a5aa74cb941^c0093d5aa74cb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/AttributorViewController.m0000000000000000^4384"CompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o Attributor/AttributorViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources/x86_64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/AttributorViewController.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o36"D5C43C8C-A984-4422-9728-6DAB4983F687-
+b32359CCE-A560-4357-8F34-4E9748A044F4
+
+CCompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424453483.491745
+e424453483.566618
+r1
+xCompileC
+xDerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/main.m
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/AttributorAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/main.m224"CompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o Attributor/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf9f37d6ba54cb941^2c10916ba54cb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/main.m0000000000000000^4264"CompileC DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o Attributor/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources/x86_64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/main.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o36"7B0B485E-669D-4D2F-B9C0-E14C6BB8D3B7-
+b7CD7FBC8-BBBA-484E-997C-A458BF428656
+
+CCompileStoryboard /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Base.lproj/Main.storyboard
+s424453851.068796
+e424453852.431029
+r1
+xCompileStoryboard
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Base.lproj/Main.storyboard
+o2014-06-14 17:50:52.000 Interface Builder Cocoa Touch Tool[28720:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-06-14 17:50:52.332 Interface Builder Cocoa Touch Tool[28721:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard Attributor/Base.lproj/Main.storyboard55"CompileStoryboard Attributor/Base.lproj/Main.storyboard10ad11dba64cb941^f7586edca64cb941^-476"2014-06-14 17:50:52.000 Interface Builder Cocoa Touch Tool[28720:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-06-14 17:50:52.332 Interface Builder Cocoa Touch Tool[28721:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@101"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/Base.lproj/Main.storyboard0000000000000000^923"CompileStoryboard Attributor/Base.lproj/Main.storyboard    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Base.lproj/Main.storyboardc /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Base.lproj/Main.storyboard36"3E582FD5-C3AC-4214-9C4E-62F93C4852FB-
+bF3B9EB0E-5F71-4A65-9D3E-82F5517369D0
+
+CCopyStringsFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj/InfoPlist.strings Attributor/en.lproj/InfoPlist.strings
+s424453483.656242
+e424453483.657144
+r1
+xCopyStringsFile
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj/InfoPlist.strings
+xAttributor/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Attributor/en.lproj/InfoPlist.strings155"CopyStringsFile DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj/InfoPlist.strings Attributor/en.lproj/InfoPlist.strings9a0ba86ba54cb941^fb3aa86ba54cb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/en.lproj/InfoPlist.strings0000000000000000^686"CopyStringsFile DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj/InfoPlist.strings Attributor/en.lproj/InfoPlist.strings    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/en.lproj -- Attributor/en.lproj/InfoPlist.strings36"6FE03555-0B93-468E-B882-6F244F602E5A-
+b7CD7FBC8-BBBA-484E-997C-A458BF428656
+
+CGenerateDSYMFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor
+s424453978.277525
+e424453978.296333
+r1
+xGenerateDSYMFile
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Generate /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM182"GenerateDSYMFile DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributorec18475aa74cb941^badd4b5aa74cb941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM/0000000000000000^823"GenerateDSYMFile DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app.dSYM36"2D35B7AA-031D-4329-924B-F0BD1C5E54BC-
+b32359CCE-A560-4357-8F34-4E9748A044F4
+
+CLd /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor normal x86_64
+s424453978.239562
+e424453978.276437
+r1
+xLd
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor
+xnormal
+xx86_64
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/Attributor.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorAppDelegate.o
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/AttributorViewController.o
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Link /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor102"Ld DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor normal x86_64bb5f3d5aa74cb941^3bc5465aa74cb941^---0#0#1#--1668"Ld DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor normal x86_64    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator -filelist /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/Attributor.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Objects-normal/x86_64/Attributor_dependency_info.dat -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Attributor36"1A732A1F-4414-49B4-A7CA-78A082F9ABB1-
+b32359CCE-A560-4357-8F34-4E9748A044F4
+
+CProcessInfoPlistFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Attributor-Info.plist
+s424453484.539932
+e424453484.541103
+r1
+xProcessInfoPlistFile
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Attributor-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Process /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Attributor-Info.plist139"ProcessInfoPlistFile DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist Attributor/Attributor-Info.plist4e458a6ca54cb941^0e868a6ca54cb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/Attributor-Info.plist0000000000000000^1087"ProcessInfoPlistFile DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist Attributor/Attributor-Info.plist    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Attributor-Info.plist -genpkginfo /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/assetcatalog_generated_info.plist -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app/Info.plist36"F86715A7-EE64-4B4A-9F03-CB3B26D7CF26-
+b7CD7FBC8-BBBA-484E-997C-A458BF428656
+
+CProcessPCH /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch Attributor/Attributor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424453482.392890
+e424453483.490839
+r1
+xProcessPCH
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch
+xAttributor/Attributor-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/Attributor/Attributor-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Attributor/Attributor-Prefix.pch248"ProcessPCH DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch Attributor/Attributor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ab1646aa54cb941^f4a77d6ba54cb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Attributor/Attributor/Attributor-Prefix.pch0000000000000000^4131"ProcessPCH DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch Attributor/Attributor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/Attributor-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources/x86_64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/Attributor.build/Debug-iphonesimulator/Attributor.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.dia -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.d -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/Attributor/Attributor-Prefix.pch -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Intermediates/PrecompiledHeaders/Attributor-Prefix-gmzemnqbzshqwggucvwpqbnvpmfa/Attributor-Prefix.pch.pch36"FFD3A67B-7C57-4F4F-B145-FE49CEA60916-
+b7CD7FBC8-BBBA-484E-997C-A458BF428656
+
+CProcessPCH /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Index/PrecompiledHeaders/Attributor-Prefix-fdjfiarfpikrncgrhlqvewbbxccm_ast/Attributor-Prefix.pch.pch Attributor/Attributor-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app
+s424453852.453997
+e424453852.463241
+r1
+xTouch
+x/Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Touch /Users/antoniosastre/Dropbox/Xcode Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app80"Touch DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.appb34374dca64cb941^9e9776dca64cb941^---0#0#1#--493"Touch DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Attributor"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Attributor/DerivedData/Attributor/Build/Products/Debug-iphonesimulator/Attributor.app36"FEA74F07-D9DB-45D6-A1E9-9FCBE9468677-
+bF3B9EB0E-5F71-4A65-9D3E-82F5517369D0
+

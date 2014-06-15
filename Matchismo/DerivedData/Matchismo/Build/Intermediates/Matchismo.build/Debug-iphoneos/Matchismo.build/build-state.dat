@@ -8,6 +8,7 @@ cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphone
 cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Deck.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Deck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameAppDelegate.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardGameAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardGameViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardMatchingGame.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCardDeck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/main.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Card.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Card.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -263,7 +264,7 @@ t1397473242
 s20812
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent
-t1402677967
+t1402767419
 s497
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Card.o
@@ -275,24 +276,28 @@ t1402674905
 s66704
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o
-t1402674905
-s52800
+t1402767418
+s58856
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o
+t1402767418
+s18672
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Deck.o
 t1402674905
 s12268
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Matchismo.LinkFileList
-c00000000539B1ED900000000000004E0
-t1402674905
-s1248
+c00000000539C48550000000000000597
+t1402751061
+s1431
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o
-t1402674905
-s16668
+t1402751061
+s18132
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o
-t1402674905
+t1402758557
 s9408
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/main.o
@@ -300,11 +305,11 @@ t1402674905
 s4240
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_dependencies.txt
-t1402674906
+t1402751062
 s472
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist
-t1402674906
+t1402751062
 s525
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch.pch
@@ -312,27 +317,27 @@ t1402674905
 s111268
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app
-t1402674909
+t1402767419
 s408
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM
-t1402674954
+t1402758558
 s102
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Base.lproj/Main.storyboardc
-t1402674907
+t1402767419
 s170
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist
-t1402674907
+t1402751062
 s1300
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo
-t1402674909
-s73456
+t1402767418
+s82776
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/PkgInfo
-t1402674907
+t1402751062
 s8
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/ResourceRules.plist
@@ -348,9 +353,9 @@ t1402674906
 s42
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard
-c00000000539B1E4D000000000000109E
-t1402674765
-s4254
+c00000000539C66D500000000000049FF
+t1402758869
+s18943
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Card.h
 c00000000539ADB23000000000000019A
@@ -378,9 +383,19 @@ t1402663889
 s240
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardGameViewController.m
-c00000000539B1E630000000000000571
-t1402674787
-s1393
+c00000000539C66CC0000000000000769
+t1402758860
+s1897
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.h
+c00000000539C2DEF00000000000001E0
+t1402744303
+s480
+
+N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.m
+c00000000539C6704000000000000082D
+t1402758916
+s2093
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Deck.h
 c00000000539AE1DE000000000000014F
@@ -393,9 +408,9 @@ t1402659293
 s887
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Images.xcassets
-c00000000539B1DA200000000000000AA
-t1402674594
-s170
+c00000000539C2C3100000000000000CC
+t1402743857
+s204
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Matchismo-Info.plist
 c00000000539AF3D100000000000004CA
@@ -408,24 +423,24 @@ t1402663889
 s344
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.h
-c00000000539AEEED0000000000000153
-t1402662637
+c00000000539C42090000000000000153
+t1402749449
 s339
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.m
-c00000000539AEEEE00000000000003AE
-t1402662638
-s942
+c00000000539C420A0000000000000507
+t1402749450
+s1287
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCardDeck.h
-c00000000539AF4FB00000000000000D4
-t1402664187
+c00000000539C493300000000000000D4
+t1402751283
 s212
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCardDeck.m
-c00000000539AF4FC00000000000002D1
-t1402664188
-s721
+c00000000539C4CFB00000000000002B6
+t1402752251
+s694
 
 N/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/en.lproj/InfoPlist.strings
 c00000000539AF3D1000000000000002D
@@ -451,6 +466,9 @@ r0
 CBuild AST from /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardGameViewController.m
 r0
 
+CBuild AST from /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardMatchingGame.m
+r0
+
 CBuild AST from /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Deck.m
 r0
 
@@ -465,33 +483,32 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0952e14f624bb941^aebce84f624bb941^---0#1#1#--18"Check dependencies36"6CA9367A-E47E-4F59-95E5-1F3CD9DCC2DD-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies475430babf4cb941^ba4d3cbabf4cb941^---0#1#1#--18"Check dependencies36"A3E03396-37D7-4633-BA68-B17F709865CC-
 
 CCodeSign /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app
-s424370767.914156
-e424370768.039504
+s424460219.774283
+e424460219.894606
 r1
 xCodeSign
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app
-o/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app: replacing existing signature
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app74"CodeSign DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.appa113ea4f624bb941^c91d0a50624bb941^-150"/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@129"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/0000000000000000^1179"CodeSign DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Antonio Sastre Vázquez (XZ52NXYB34)" and provisioning profile "iOS Team Provisioning Profile: *" (19B43D78-857B-418B-B3CB-4EF075AB0E59)    /usr/bin/codesign --force --sign 17F9C885B7BB77C4D2CBD92CEDB1C11B224ED16C --resource-rules=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/ResourceRules.plist --entitlements /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app36"0409FF5E-3B89-474B-8367-85322B00E811-
-bB5571012-6E52-40BA-9B38-D171F4B5F709
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app74"CodeSign DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app116ec6bbbf4cb941^2905e5bbbf4cb941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/0000000000000000^1179"CodeSign DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Antonio Sastre Vázquez (XZ52NXYB34)" and provisioning profile "iOS Team Provisioning Profile: *" (19B43D78-857B-418B-B3CB-4EF075AB0E59)    /usr/bin/codesign --force --sign 17F9C885B7BB77C4D2CBD92CEDB1C11B224ED16C --resource-rules=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/ResourceRules.plist --entitlements /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app36"3E34F4EC-1761-477F-95D7-6DD0D82CD039-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
 CCompileAssetCatalog /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Images.xcassets
-s424367706.417018
-e424367706.724180
+s424443861.944541
+e424443862.674956
 r1
 xCompileAssetCatalog
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Images.xcassets
-o2014-06-13 17:55:06.611 IBCocoaTouchImageCatalogTool[16281:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-06-14 15:04:22.584 IBCocoaTouchImageCatalogTool[26802:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
 o/* com.apple.actool.compilation-results */
 o/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/LaunchImage-700-568h@2x.png
 o/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Assets.car
 o/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CompileAssetCatalog DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app Matchismo/Images.xcassets111"CompileAssetCatalog DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app Matchismo/Images.xcassets18cd6a5a564bb941^0f64b95a564bb941^-732"2014-06-13 17:55:06.611 IBCocoaTouchImageCatalogTool[16281:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/LaunchImage-700-568h@2x.png/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Assets.car/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@89"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/Images.xcassets/0000000000000000^1236"CompileAssetCatalog DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app Matchismo/Images.xcassets    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Images.xcassets36"53550546-0935-4F68-9276-80D86475F8DF-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CompileAssetCatalog DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app Matchismo/Images.xcassets111"CompileAssetCatalog DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app Matchismo/Images.xcassets48def1d57f4cb941^dac9acd67f4cb941^-732"2014-06-14 15:04:22.584 IBCocoaTouchImageCatalogTool[26802:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/LaunchImage-700-568h@2x.png/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Assets.car/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@89"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/Images.xcassets/0000000000000000^1236"CompileAssetCatalog DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app Matchismo/Images.xcassets    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Images.xcassets36"0A3D25F1-EF60-421F-8241-2014D87FF8D8-
+b412BA458-564F-400C-861A-5B837B6A9D94
 
 CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Card.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Card.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s424367705.850946
@@ -526,8 +543,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile
 bB3EA64C2-E191-4A41-9DB6-75546B994E6B
 
 CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardGameViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s424367705.849499
-e424367705.963258
+s424460218.237386
+e424460218.323562
 r1
 xCompileC
 xDerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o
@@ -541,8 +558,27 @@ d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardGameViewCon
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCardDeck.h
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Deck.h
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Card.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardGameViewController.m247"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o Matchismo/CardGameViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa9ad959564bb941^8998f659564bb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/CardGameViewController.m0000000000000000^4129"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o Matchismo/CardGameViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardGameViewController.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o36"E06147F3-7849-4501-A5C6-30172165C046-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardGameViewController.m247"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o Matchismo/CardGameViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler44e03cbabf4cb941^02d652babf4cb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/CardGameViewController.m0000000000000000^4129"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o Matchismo/CardGameViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardGameViewController.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o36"1FDAC6E6-986C-460C-9667-394D4C7211A3-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
+
+CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardMatchingGame.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424460218.237517
+e424460218.291709
+r1
+xCompileC
+xDerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o
+x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.m
+d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.h
+d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Deck.h
+d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/CardMatchingGame.m235"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o Matchismo/CardMatchingGame.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler83dd3cbabf4cb941^b4ad4ababf4cb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/CardMatchingGame.m0000000000000000^4093"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o Matchismo/CardMatchingGame.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/CardMatchingGame.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o36"FDC9DCC6-7401-488D-91DA-75FC7D53D5A7-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
 CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Deck.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Deck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s424367705.849153
@@ -562,8 +598,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile
 bB3EA64C2-E191-4A41-9DB6-75546B994E6B
 
 CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCard.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s424367705.848958
-e424367705.960532
+s424443861.819657
+e424443861.874939
 r1
 xCompileC
 xDerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o
@@ -575,12 +611,12 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.m
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.h
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Card.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.m225"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o Matchismo/PlayingCard.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2766d959564bb941^36e6f559564bb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/PlayingCard.m0000000000000000^4063"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o Matchismo/PlayingCard.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCard.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o36"A609B813-CCBA-4B3C-B8A4-90DD64A7C19D-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.m225"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o Matchismo/PlayingCard.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4e4d1d57f4cb941^22fcdfd57f4cb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/PlayingCard.m0000000000000000^4063"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o Matchismo/PlayingCard.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCard.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCard.o36"8AE0D680-1F02-48E3-8C88-7F74FFC055D1-
+b412BA458-564F-400C-861A-5B837B6A9D94
 
 CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCardDeck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s424367705.849900
-e424367705.957556
+s424451357.798137
+e424451357.842656
 r1
 xCompileC
 xDerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o
@@ -594,8 +630,8 @@ d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCardDeck
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Deck.h
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Card.h
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCard.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCardDeck.m233"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o Matchismo/PlayingCardDeck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilereeb4d959564bb941^c72af559564bb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/PlayingCardDeck.m0000000000000000^4087"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o Matchismo/PlayingCardDeck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCardDeck.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o36"E72C8456-B410-4C13-A3F8-0F7443021913-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/PlayingCardDeck.m233"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o Matchismo/PlayingCardDeck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc861cc1d9d4cb941^3db8d71d9d4cb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/PlayingCardDeck.m0000000000000000^4087"CompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o Matchismo/PlayingCardDeck.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-generated-files.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-own-target-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-all-target-headers.hmap -iquote /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo-project-headers.hmap -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources/arm64 -I/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/DerivedSources -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -include /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch -MMD -MT dependencies -MF /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.d --serialize-diagnostics /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.dia -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/PlayingCardDeck.m -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o36"786EF39E-2403-42EC-8698-5F1FA1ADC45A-
+b87E5FB27-C6E6-41F2-9FAC-1AC0CAE9D945
 
 CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/main.o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s424367705.850818
@@ -656,15 +692,15 @@ CCompileC DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphone
 r0
 
 CCompileStoryboard /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard
-s424367706.416734
-e424367707.431202
+s424460218.358636
+e424460219.747485
 r1
 xCompileStoryboard
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard
-o2014-06-13 17:55:07.098 Interface Builder Cocoa Touch Tool[16282:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-o2014-06-13 17:55:07.369 Interface Builder Cocoa Touch Tool[16284:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard Matchismo/Base.lproj/Main.storyboard54"CompileStoryboard Matchismo/Base.lproj/Main.storyboard80b96a5a564bb941^2c646e5b564bb941^-476"2014-06-13 17:55:07.098 Interface Builder Cocoa Touch Tool[16282:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-06-13 17:55:07.369 Interface Builder Cocoa Touch Tool[16284:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard0000000000000000^857"CompileStoryboard Matchismo/Base.lproj/Main.storyboard    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Base.lproj/Main.storyboardc /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard36"DFEAFF09-A643-4568-BCC8-7CB7982908C7-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+o2014-06-14 19:36:59.347 Interface Builder Cocoa Touch Tool[29725:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-06-14 19:36:59.646 Interface Builder Cocoa Touch Tool[29726:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard Matchismo/Base.lproj/Main.storyboard54"CompileStoryboard Matchismo/Base.lproj/Main.storyboardf9da5bbabf4cb941^f75bbfbbbf4cb941^-476"2014-06-14 19:36:59.347 Interface Builder Cocoa Touch Tool[29725:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-06-14 19:36:59.646 Interface Builder Cocoa Touch Tool[29726:303] CFPreferences: user home directory at file:///Users/antoniosastre/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard0000000000000000^857"CompileStoryboard Matchismo/Base.lproj/Main.storyboard    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Base.lproj/Main.storyboardc /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Base.lproj/Main.storyboard36"77B9DA40-DC25-4882-9C82-11597721474B-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
 CCopyStringsFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/en.lproj/InfoPlist.strings Matchismo/en.lproj/InfoPlist.strings
 s424367706.416628
@@ -690,14 +726,14 @@ CCreateUniversalBinary /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/De
 r0
 
 CGenerateDSYMFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo
-s424367754.786204
-e424367754.804306
+s424460219.748027
+e424460219.765051
 r1
 xGenerateDSYMFile
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM163"GenerateDSYMFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismod74dc98a564bb941^a7e7cd8a564bb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM/0000000000000000^775"GenerateDSYMFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM36"0EF37628-2D86-485E-9CE8-8F8BB7B28BE4-
-b7C91D543-287E-4853-8955-CAAF1A8F8E6E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM163"GenerateDSYMFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismob589bfbbbf4cb941^d7dac3bbbf4cb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM/0000000000000000^775"GenerateDSYMFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app.dSYM36"18A0BCA3-DC9B-4D4A-B5C7-1F992502A9CE-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
 CLd /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Matchismo normal arm64
 r0
@@ -709,8 +745,8 @@ CLd /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo
 r0
 
 CLd /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo normal arm64
-s424367705.963959
-e424367706.416040
+s424460218.324602
+e424460218.357950
 r1
 xLd
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo
@@ -721,6 +757,7 @@ d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Bui
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Deck.o
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameAppDelegate.o
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardGameViewController.o
+d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/CardMatchingGame.o
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/PlayingCardDeck.o
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/main.o
 d/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Card.o
@@ -766,18 +803,18 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo91"Ld DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo normal arm6463d3f659564bb941^84826a5a564bb941^---0#0#1#--1519"Ld DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo normal arm64    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -filelist /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Matchismo.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Matchismo_dependency_info.dat -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo36"9D450ED3-1B52-44F1-84F2-F23D74014D3C-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo91"Ld DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo normal arm64d52553babf4cb941^f0a25bbabf4cb941^---0#0#1#--1519"Ld DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo normal arm64    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -F/Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos -filelist /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Matchismo.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Objects-normal/arm64/Matchismo_dependency_info.dat -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Matchismo36"5C16B25B-6471-4504-A522-98F393955CEA-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
 CProcessInfoPlistFile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Matchismo-Info.plist
-s424367707.431825
-e424367707.433414
+s424443862.863371
+e424443862.864695
 r1
 xProcessInfoPlistFile
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Matchismo-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Process /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Matchismo-Info.plist128"ProcessInfoPlistFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist Matchismo/Matchismo-Info.plistaa9c6e5b564bb941^cff46e5b564bb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/Matchismo-Info.plist0000000000000000^1187"ProcessInfoPlistFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist Matchismo/Matchismo-Info.plist    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Matchismo-Info.plist -genpkginfo /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/ResourceRules.plist -additionalcontentfile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist36"2B29D1A7-0C0A-44E3-BB84-F32D9A184C73-
-bB3EA64C2-E191-4A41-9DB6-75546B994E6B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Process /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/Matchismo/Matchismo-Info.plist128"ProcessInfoPlistFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist Matchismo/Matchismo-Info.plistf514ddd67f4cb941^815dddd67f4cb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/Matchismo/Matchismo-Info.plist0000000000000000^1187"ProcessInfoPlistFile DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist Matchismo/Matchismo-Info.plist    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/Matchismo/Matchismo-Info.plist -genpkginfo /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/ResourceRules.plist -additionalcontentfile /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/assetcatalog_generated_info.plist -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/Info.plist36"BFE98F13-9256-48DC-8F55-9314D55E2BFC-
+b412BA458-564F-400C-861A-5B837B6A9D94
 
 CProcessPCH /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/PrecompiledHeaders/Matchismo-Prefix-cclbhilzjnwkmcaahiowfxahrgbb/Matchismo-Prefix.pch.pch Matchismo/Matchismo-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s424367705.168165
@@ -810,14 +847,14 @@ CProcessPCH /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/M
 r0
 
 CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent
-s424370767.912735
-e424370767.913906
+s424460219.773123
+e424460219.773979
 r1
 xProcessProductPackaging
 x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
 x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcentfeb4e94f624bb941^34f6e94f624bb941^---0#0#1#-19%DVTDocumentLocation2@167"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent0000000000000000^847"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent36"C8682F02-65E6-4C54-AECC-76FBB3BE6AD7-
-bB5571012-6E52-40BA-9B38-D171F4B5F709
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent1ff7c5bbbf4cb941^f223c6bbbf4cb941^---0#0#1#-19%DVTDocumentLocation2@167"file:///Users/antoniosastre/Dropbox/Xcode%20Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent0000000000000000^847"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Intermediates/Matchismo.build/Debug-iphoneos/Matchismo.build/Matchismo.xcent36"B98141C2-5228-4E18-A909-02F91CDD2815-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
 CProcessProductPackaging /Users/antoniosastre/Library/MobileDevice/Provisioning\ Profiles/19B43D78-857B-418B-B3CB-4EF075AB0E59.mobileprovision /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app/embedded.mobileprovision
 s424367707.455619
@@ -833,5 +870,11 @@ CProcessProductPackaging /Users/antoniosastre/Library/MobileDevice/Provisioning\
 r0
 
 CTouch /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app
-r0
+s424460219.765630
+e424460219.772786
+r1
+xTouch
+x/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/antoniosastre/Dropbox/Xcode Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app71"Touch DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app180ac4bbbf4cb941^d0d6c5bbbf4cb941^---0#0#1#--466"Touch DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app    cd "/Users/antoniosastre/Dropbox/Xcode Projects/Matchismo"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/antoniosastre/Dropbox/Xcode\ Projects/Matchismo/DerivedData/Matchismo/Build/Products/Debug-iphoneos/Matchismo.app36"12D64E2C-00A0-4C23-A24A-688C5E5DB98C-
+b7F162600-C474-40F9-B5A8-BEEF8A2BFC76
 
